@@ -1,5 +1,5 @@
 {
-    "name": "nixsolutions/yandex-php-library",
+    "name": "dashamail/yandex-php-library",
     "description": "Official Yandex PHP library",
     "keywords":["yandex","sdk"],
     "type":"library",
@@ -22,16 +22,12 @@
     },
     "authors": [
         {
-            "name": "NIX Solutions Ltd",
-            "email": "github@nixsolutions.com"
-        },
-        {
-            "name": "Yandex PHP library Contributors",
-            "homepage": "https://github.com/nixsolutions/yandex-php-library/graphs/contributors"
+            "name": "Pismo Ltd",
+            "email": "info@dashamail.ru"
         }
     ],
     "support": {
-        "issues": "https://github.com/nixsolutions/yandex-php-library/issues",
-        "wiki": "https://github.com/nixsolutions/yandex-php-library/wiki"
+        "issues": "https://github.com/DashaMail/yandex-php-library/issues",
+        "wiki": "https://github.com/DashaMail/yandex-php-library/wiki"
     }
 }
